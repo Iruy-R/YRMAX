@@ -1,0 +1,426 @@
+# Copyright (C) 2022 armadon
+# This file is distributed under the same license as the armadon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: armadon\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Themosaurus <support@themosaurus.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../attachment.php:32
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: ../attachment.php:68, ../inc/template-functions.php:533, ../inc/template-functions.php:576
+msgid "Pages:"
+msgstr ""
+
+#: ../attachment.php:72, ../inc/template-functions.php:537, ../inc/template-functions.php:580
+msgid "Page"
+msgstr ""
+
+#: ../attachment.php:80
+msgid "Previous Image"
+msgstr ""
+
+#: ../attachment.php:81
+msgid "Next Image"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Show Comment Form"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Hide Comment Form"
+msgstr ""
+
+#: ../comments.php:31
+msgid "Show Comments"
+msgstr ""
+
+#: ../comments.php:32
+msgid "Hide Comments"
+msgstr ""
+
+#. translators: 1: Number of comments, 2: Post title
+#: ../comments.php:56
+msgctxt "Button Comment Count"
+msgid "%1$s thought on"
+msgid_plural "%1$s thoughts on"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:52
+msgctxt "comments title"
+msgid "One thought on"
+msgstr ""
+
+#: ../comments.php:86
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:90
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:93
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:103
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:810
+msgid "Welcome to the Forum"
+msgstr ""
+
+#: ../functions.php:814
+msgid "Join community forum to share your passion for gaming"
+msgstr ""
+
+#: ../header.php:41
+msgid "Skip to main content"
+msgstr ""
+
+#: ../inc/class-armadon.php:75
+msgid "Primary"
+msgstr ""
+
+#: ../inc/class-armadon.php:174
+msgid "Gray Darkest"
+msgstr ""
+
+#: ../inc/class-armadon.php:179
+msgid "Gray Darker"
+msgstr ""
+
+#: ../inc/class-armadon.php:184
+msgid "Gray Dark"
+msgstr ""
+
+#: ../inc/class-armadon.php:251
+msgid "Thumbnail: One Column"
+msgstr ""
+
+#: ../inc/class-armadon.php:252
+msgid "Thumbnail: Two Columns"
+msgstr ""
+
+#: ../inc/class-armadon.php:253
+msgid "Thumbnail: Three Columns"
+msgstr ""
+
+#: ../inc/class-armadon.php:254
+msgid "Thumbnail: Four Columns"
+msgstr ""
+
+#: ../inc/class-armadon.php:255
+msgid "Thumbnail: One Column Lateral"
+msgstr ""
+
+#: ../inc/class-armadon.php:256
+msgid "Thumbnail: Two Columns Lateral"
+msgstr ""
+
+#: ../inc/class-armadon.php:257
+msgid "Thumbnail: Two Columns Modern Left"
+msgstr ""
+
+#: ../inc/class-armadon.php:281
+msgid "Sidebar 1"
+msgstr ""
+
+#: ../inc/class-armadon.php:282
+msgid "The left hand area for all pages."
+msgstr ""
+
+#: ../inc/class-armadon.php:286
+msgid "Footer 1"
+msgstr ""
+
+#: ../inc/class-armadon.php:287
+msgid "The first area for the footer of all pages."
+msgstr ""
+
+#: ../inc/class-armadon.php:291
+msgid "Footer 2"
+msgstr ""
+
+#: ../inc/class-armadon.php:292
+msgid "The second area for the footer of all pages."
+msgstr ""
+
+#: ../inc/class-armadon.php:296
+msgid "Footer 3"
+msgstr ""
+
+#: ../inc/class-armadon.php:297
+msgid "The third area for the footer of all pages."
+msgstr ""
+
+#: ../inc/class-armadon.php:301
+msgid "Footer 4"
+msgstr ""
+
+#: ../inc/class-armadon.php:302
+msgid "The fourth area for the footer of all pages."
+msgstr ""
+
+#: ../inc/class-armadon.php:363
+msgctxt "Barlow font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/class-armadon.php:418
+msgctxt "priority_menu_label_"
+msgid "More"
+msgstr ""
+
+#: ../inc/class-armadon.php:419
+msgctxt "priority_menu_mobile_label"
+msgid "Menu"
+msgstr ""
+
+#: ../inc/class-armadon.php:420
+msgctxt "priority_menu_mobile_label_categories"
+msgid "Categories"
+msgstr ""
+
+#: ../inc/class-armadon.php:421
+msgctxt "priority_menu_mobile_label_tags"
+msgid "Tags"
+msgstr ""
+
+#: ../inc/class-armadon.php:422
+msgctxt "priority_menu_mobile_label_formats"
+msgid "Formats"
+msgstr ""
+
+#: ../inc/template-functions.php:285, ../inc/template-functions.php:299, ../inc/template-functions.php:445, ../inc/template-functions.php:459
+msgid "Continue reading"
+msgstr ""
+
+#: ../inc/template-functions.php:354
+msgid "Previous"
+msgstr ""
+
+#: ../inc/template-functions.php:358
+msgid "Next"
+msgstr ""
+
+#: ../inc/template-functions.php:605, ../inc/grimlock/customizer/class-armadon-grimlock-404-customizer.php:58
+msgid "404 • Page not found"
+msgstr ""
+
+#: ../inc/template-functions.php:606
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: ../inc/template-functions.php:608
+msgid "Go back to homepage"
+msgstr ""
+
+#: ../inc/template-functions.php:646
+msgid "Posted on"
+msgstr ""
+
+#: ../inc/template-functions.php:677, ../inc/template-functions.php:677
+msgid "Sticky"
+msgstr ""
+
+#. translators: 1: Name of current post, 2: Right arrow
+#: ../inc/template-functions.php:703
+msgid "Continue reading %1$s %2$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-functions.php:721, ../inc/template-functions.php:737
+msgid ", "
+msgstr ""
+
+#: ../inc/template-functions.php:723
+msgid "Posted in"
+msgstr ""
+
+#: ../inc/template-functions.php:739
+msgid "Tagged"
+msgstr ""
+
+#. translators: %s: The post format name
+#: ../inc/template-functions.php:756
+msgid "%s post"
+msgstr ""
+
+#: ../inc/template-functions.php:827
+msgid "By"
+msgstr ""
+
+#: ../inc/template-functions.php:905
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: 1: Date, 2: Time
+#: ../inc/template-functions.php:928
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-functions.php:956
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-functions.php:893
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-functions.php:1016
+msgid "Archives"
+msgstr ""
+
+#: ../inc/template-functions.php:1009
+msgid "Chats"
+msgstr ""
+
+#: ../inc/template-functions.php:1007
+msgid "Audio"
+msgstr ""
+
+#: ../inc/template-functions.php:1005
+msgid "Statuses"
+msgstr ""
+
+#: ../inc/template-functions.php:1003
+msgid "Links"
+msgstr ""
+
+#: ../inc/template-functions.php:1001
+msgid "Quotes"
+msgstr ""
+
+#: ../inc/template-functions.php:999
+msgid "Videos"
+msgstr ""
+
+#: ../inc/template-functions.php:997
+msgid "Images"
+msgstr ""
+
+#: ../inc/template-functions.php:995
+msgid "Galleries"
+msgstr ""
+
+#: ../inc/template-functions.php:993
+msgid "Asides"
+msgstr ""
+
+#: ../inc/template-functions.php:990
+msgid "F j, Y"
+msgstr ""
+
+#: ../inc/template-functions.php:988
+msgid "F Y"
+msgstr ""
+
+#: ../inc/template-functions.php:986
+msgid "Y"
+msgstr ""
+
+#: ../inc/grimlock/class-armadon-grimlock.php:230
+msgid "logo"
+msgstr ""
+
+#: ../inc/grimlock/class-armadon-grimlock.php:260
+msgid "Vertical Navbar"
+msgstr ""
+
+#: ../inc/grimlock/class-armadon-grimlock.php:261
+msgid "The area for vertical navbar."
+msgstr ""
+
+#: ../inc/grimlock/class-armadon-grimlock.php:277
+msgid "Secondary"
+msgstr ""
+
+#: ../inc/grimlock/grimlock-template-functions.php:333
+msgid "Categories: "
+msgstr ""
+
+#: ../inc/grimlock/grimlock-template-functions.php:334
+msgid "All categories"
+msgstr ""
+
+#: ../inc/grimlock/grimlock-template-functions.php:337
+msgid "Post tags: "
+msgstr ""
+
+#: ../inc/grimlock/grimlock-template-functions.php:338
+msgid "All post tags"
+msgstr ""
+
+#: ../inc/grimlock/grimlock-template-functions.php:341
+msgid "Post formats: "
+msgstr ""
+
+#: ../inc/grimlock/grimlock-template-functions.php:342
+msgid "All post formats"
+msgstr ""
+
+#: ../inc/merlin/class-armadon-merlin.php:40, ../inc/merlin/class-armadon-merlin.php:160
+msgid "Visit doc.themosaurus.com to get the full documentation for the theme"
+msgstr ""
+
+#: ../inc/grimlock/customizer/class-armadon-grimlock-404-customizer.php:51
+msgid "It looks like nothing was found at this location. <br/>Maybe try one of the links below or a search?"
+msgstr ""
+
+#: ../inc/grimlock/customizer/class-armadon-grimlock-global-customizer.php:64
+msgid "Style"
+msgstr ""
+
+#: ../inc/grimlock/customizer/class-armadon-grimlock-global-customizer.php:85
+msgid "Display theme ornaments"
+msgstr ""
+
+#. translators: %s: The search query
+#: ../search.php:24
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:13, ../searchform.php:15, ../template-parts/content-search-form.php:20, ../template-parts/content-search-form.php:22, ../template-parts/content-search-form.php:22
+msgid "Search everything..."
+msgstr ""
+
+#: ../searchform.php:15
+msgid "Search for:"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../template-parts/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:21
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: ../template-parts/content-none.php:23
+msgid "Get started here"
+msgstr ""
