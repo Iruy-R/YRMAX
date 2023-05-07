@@ -1,0 +1,11 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_armadon">
+            <key name="404_title" />
+            <key name="404_subtitle" />
+            <key name="404_text" />
+            <key name="404_button_text" />
+            <key name="404_button_link" />
+        </key>
+    </admin-texts>
+</wpml-config>
